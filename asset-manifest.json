@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-splendifikiss-foundation/static/css/main.3bb603a8.css",
+    "main.js": "/react-splendifikiss-foundation/static/js/main.aba3b69c.js",
+    "index.html": "/react-splendifikiss-foundation/index.html",
+    "main.3bb603a8.css.map": "/react-splendifikiss-foundation/static/css/main.3bb603a8.css.map",
+    "main.aba3b69c.js.map": "/react-splendifikiss-foundation/static/js/main.aba3b69c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb603a8.css",
+    "static/js/main.aba3b69c.js"
+  ]
+}
